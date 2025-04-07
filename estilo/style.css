@@ -7,7 +7,9 @@ body {
     background-color: blueviolet;
 
 }
-
+ima.lado{
+    float: right;
+}
 main {
     background-color: white;
     width: 500px;
